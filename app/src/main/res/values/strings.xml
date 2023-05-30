@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Auratesttask</string>
+    <string name="notification_title">Notification</string>
+    <string name="notification_no_boot_events">No boots detected</string>
+    <string name="notification_single_boot_event">The boot was detected with the timestamp</string>
+    <string name="notification_delta">“Last boots time delta</string>
+</resources>
